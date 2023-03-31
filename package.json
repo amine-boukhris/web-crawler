@@ -4,7 +4,7 @@
   "description": "the project from a HTTP networking course",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js",
+    "start": "node --no-warnings main.js",
     "test": "jest"
   },
   "repository": {
