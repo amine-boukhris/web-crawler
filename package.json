@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "the project from a HTTP networking course",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amine-boukhris/web-crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amine-boukhris/web-crawler/issues"
+  },
+  "homepage": "https://github.com/amine-boukhris/web-crawler#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
